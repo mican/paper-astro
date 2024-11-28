@@ -2,7 +2,7 @@
 author: Simon Smale
 pubDatetime: 2024-01-08T18:16:00.000Z
 modDatetime:
-title: How to add a new Social Icon to AstroPaper
+title: How to add a new Social Icon to AstroPaper [update]
 featured: false
 draft: false
 tags:
@@ -10,7 +10,7 @@ tags:
 description: How to add a new social icon to AstroPaper
 ---
 
-Hot new platform? Niche corner of the internet? Or one specific to your area? This post will guide you through how to add a new social icon to the theme.
+This was changed by me
 
 ## Table of contents
 
